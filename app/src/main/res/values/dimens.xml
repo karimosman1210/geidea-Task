@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="toolbarHeight">@dimen/_50sdp</dimen>
+
+    <dimen name="cornerSize6">@dimen/_6sdp</dimen>
+    <dimen name="cornerSize10">@dimen/_10sdp</dimen>
+
+    <dimen name="textSize12">@dimen/_12ssp</dimen>
+    <dimen name="textSize14">@dimen/_14ssp</dimen>
+    <dimen name="textSize16">@dimen/_16ssp</dimen>
+    <dimen name="textSize30">@dimen/_30ssp</dimen>
+</resources>

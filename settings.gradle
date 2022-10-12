@@ -1,0 +1,2 @@
+rootProject.name = "geideaTask"
+include ':app'

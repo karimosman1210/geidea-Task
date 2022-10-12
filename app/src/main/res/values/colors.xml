@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FAF8F6</color>
+    <color name="colorPrimaryVariant">#000000</color>
+    <color name="colorSecondary">#96150C</color>
+    <color name="colorBackground">#FAF8F6</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="gray">#707070</color>
+    <color name="casal">#335C67</color>
+    <color name="buttonBackground">#96150C</color>
+</resources>

@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryVariant">@color/colorPrimaryVariant</item>
+        <item name="colorSecondary">@color/colorSecondary</item>
+        <item name="android:colorBackground">@color/colorBackground</item>
+        <item name="android:statusBarColor">@color/colorPrimaryVariant</item>
+    </style>
+
+    <style name="WrapContentDialogStyle" parent="Theme.MaterialComponents.Light.Dialog">
+        <item name="windowMinWidthMajor">0%</item>
+        <item name="windowMinWidthMinor">0%</item>
+    </style>
+
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">geidea Task</string>
+    <string name="icon">أيقونة</string>
+    <string name="users">المستخدمين</string>
+    <string name="user_details">بيانات المستخدم</string>
+    <string name="language">اللغة</string>
+    <string name="choose_your_desired_language">اختر اللغة المفضلة</string>
+    <string name="english">English</string>
+    <string name="arabic">العربية</string>
+    <string name="save">حفظ</string>
+    <string name="something_wrong">عفواً. يوجد مشكلة.</string>
+    <string name="no_users_msg">لا يوجد مستخدمين</string>
+</resources>
